@@ -1,0 +1,2 @@
+- A exercise to practice working with redux/toolskit.
+- managing state.
